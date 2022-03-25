@@ -1,4 +1,8 @@
-# IFSUL-Calculadora-CSharp
+Aluno: Henrique Balardin
+Turma: 4INF
+Ano: 2022
+
+# IFSUL-Calculadora-C#
 Atividade para o IFSUL. Calculadora feita em C#
 
 ```C#
